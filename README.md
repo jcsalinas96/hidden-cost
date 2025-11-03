@@ -1,0 +1,2 @@
+# hidden-cost
+blog post
